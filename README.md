@@ -2,7 +2,7 @@
   Web interface to view sample data and table structure from Oracle Database.
 
 #Usecase
-  Deliver a LIVE web representation of sample data and the structure of views in Oracle DB. This allows to beautiful and simple presentation with read only access to the end-user. 
+  Deliver a web representation of live data and the current structure of views in Oracle DB. This allows to beautiful and simple presentation with read only access to the end-user. 
 
 #Tools:
   PHP, ezSQL, Oracle Database
